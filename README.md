@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Sacha-Bouhey
 - 👀 I’m interested in codding (Obviously) 
-- 🌱 I’m currently learning Qt
+- 🌱 I’m currently learning qml
 - 💞️ I’m looking to collaborate on MicroSerices project for work
 - 📫 How to reach me sacha@lolice.xyz
 - 😄 Pronouns: he/him
